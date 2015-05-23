@@ -1,0 +1,72 @@
++-------------------------+
+|                         |
+|	Druckteile Workshop   |
+|                         |
++-------------------------+
+
+
+										Erledigt
+________________________________________________
+Thomas
+40x		0014_Ikea Roll_Spacer_2x			X
+40x		0015_Rollclip_2x					X
+40x		0020_lower_bearing_block_a			X
+40x		0021_lower_bearing_block_b			X
+40x		0022_lower_bearing_block_c
+40x		0023_lower_bearing_block_spacer		X
+10x		0500_extruder_plate_1 (grün)		X
+10x		0503_extruder_fan_shield (grün)		X
+20x		0501_extruder_plate_2				X
+20x		0025_Arduino_Mount
+
+
+________________________________________________
+Angelo
+20x		0001_Z_Motor_Mount					X
+40x		0002_Z_Tensioner_2x					X
+20x		0003_Z_Endstop_Mount				X
+40x		0004_Z_Baseplate_2x					X
+40x		0005_Z_Drive_Connector_Plate_2x 	X
+40x		0006_NEMA17_Spacer_2x				X
+20x		0008_X_Carriage_Chainmount_Spacer	X
+40x		0009_X_Carriage_Chainmount_2x		X
+20x		0010_X_Chainmount					X
+20x		0011_Y_Chainmount_Heatbed			X
+20x		0012_Chainmount_Frame				X
+20x		0016_PFTE_Guide_mount
+20x		0017_PFTE_Guide_mount_cap
+20x		0018_Fan_Mount_Top
+
+________________________________________________
+Mario
+20x 	0019_Display_Mount					X
+80x		0024_bearing_block_625
+
+
+________________________________________________
+Niclas
+20x		0500_extruder_plate_1 (orange)
+20x		0502_extruder_plate_3 
+20x		0503_extruder_fan_shield (orange)
+80x		0026_PSU_24V_4x
+
+
+
+
+================================================
+================================================
+
+TODO
+
+0.3er Düse
+20x		0007_X_Carriage_Belt_Fixture
+20x		0013_Y_Belt_Fixture
+
+
+0.3er oder 0.5er Düse
+
+
+Arduino Due Halterung
+Power Supply
+MPX Halter
+
